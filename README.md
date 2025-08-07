@@ -6,8 +6,8 @@
 
 ##  What I Learn
 
-- How to find security weaknesses on your system
-- Which free tools you can use safely
+- How to find security weaknesses on our system
+- free tools you can use safely
 - Basic steps to improve your computer's security
 
 # Vulnerability Assessment Report
