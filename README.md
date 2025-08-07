@@ -46,9 +46,9 @@ Plugins Enabled: Default set (including OS-specific checks, CVE detection, and m
 
 # Vulnerability Summary
 
- <img width="690" height="610" alt="1" src="https://github.com/user-attachments/assets/f9fa2c90-ceb4-4ded-bd9c-6975305a19f0" />
+ <img width="544" height="611" alt="111" src="https://github.com/user-attachments/assets/8b37fc41-7015-4d8b-81ee-272e2d478244" />
 
- <img width="688" height="384" alt="11" src="https://github.com/user-attachments/assets/6354e3aa-9200-4d5c-a876-dfd72bed253b" />
+ <img width="548" height="320" alt="1111" src="https://github.com/user-attachments/assets/6407676a-7da9-42ac-b0d2-2a9b12a634e2" />
 
 
  # Notable Findings
@@ -65,9 +65,9 @@ Plugins Enabled: Default set (including OS-specific checks, CVE detection, and m
 
   #  References
   
- BID  10355
+ BID :  10355
  
- CVE  CVE-2004-0488
+ CVE :  CVE-2004-0488
 
 # Conclusion
 
